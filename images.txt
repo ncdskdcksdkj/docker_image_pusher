@@ -5,6 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 https://docker.1panel.live
-https://dockerpull.com
-https://dockerproxy.cn
-https://docker.hpcloud.cloud
+
+
